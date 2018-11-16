@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'componentes-input';
+  varialvelDoInput: string = 'Digite alguma coisa aqui'
 }
